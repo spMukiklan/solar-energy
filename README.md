@@ -1,1 +1,1 @@
-# solar-energy
+# solar_power
